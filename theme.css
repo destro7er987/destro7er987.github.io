@@ -1,0 +1,9 @@
+body {
+    background-image: url('https://wallpaperaccess.com/full/802892.jpg'); /* 將 '背景圖片的URL' 替換為你的背景圖片的實際URL */
+    background-size: cover; /* 自動調整背景圖片大小以填滿整個畫面 */
+    background-repeat: no-repeat; /* 防止背景圖片重複 */
+    background-attachment: fixed; /* 固定背景圖片，當滾動網頁時不會移動 */
+    background-position: center center; /* 將背景圖片置中 */
+    background-color: #f0f0f0; /* 如果背景圖片無法載入，可以使用背景顏色作為替代 */
+    color: #333; /* 設定文字顏色 */
+}
